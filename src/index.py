@@ -17,7 +17,7 @@ def main():
 
     lisataan_varastoihin(mehua, olutta)
 
-    varastoista_saadaan(mehua, olutta)  
+    varastoista_saadaan(mehua, olutta)
 
 def tulosta_olut_getterit(varasto):
     print("Olut getterit:")
